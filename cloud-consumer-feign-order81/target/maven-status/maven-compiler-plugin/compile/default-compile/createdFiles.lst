@@ -1,0 +1,6 @@
+com\atguigu\cloud\controller\OrderCircuitController.class
+com\atguigu\cloud\controller\OrderController.class
+com\atguigu\cloud\controller\OrderGateWayController.class
+com\atguigu\cloud\controller\OrderMicrometerController.class
+com\atguigu\cloud\config\FeignConfig.class
+com\atguigu\cloud\MainOpenFeign81.class
